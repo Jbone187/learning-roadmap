@@ -12,7 +12,7 @@ The following resources have helped shape this roadmap:
 
 #### Chapter 1 - Node Newbie (3-weeks)
 
-* [ ] [fCCAPIs and Microservices Certification](https://learn.freecodecamp.org/):
+* [ ] [fCC APIs and Microservices Certification](https://learn.freecodecamp.org/):
   * [ ] Managing Packages with NPM
   * [ ] Basic Node and Express
   * [ ] MongoDB and Mongoose
